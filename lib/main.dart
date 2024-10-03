@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-
+import 'splash123_evan.dart';
 void main() {
-  runApp(const MyApp());
+  // runApp(const MyApp());
+  runApp(const Splash123Evan());
 }
 
 class MyApp extends StatelessWidget {
